@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an IT professional passionate about uncovering
 
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/s-hawdiya/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/s-hawdiya/)
 
 
 ---
