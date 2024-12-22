@@ -62,10 +62,13 @@ I'm an **IT professional** passionate about uncovering insights through **data a
   <img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_1280.png" width="100" alt="Windows">
 </div>
 
+---
 
+# Projects
 
-
-
+| PowerBI Reliance Smart | Tableau Sales Dashboard |
+|------------------------|-------------------------|
+| [![PowerBI Reliance Smart](https://github.com/shawdiya/PowerBI_Reliance_Smart/raw/main/images/reliance_dashboard.png)](https://github.com/shawdiya/PowerBI_Reliance_Smart) | [![Tableau Sales Dashboard](https://github.com/shawdiya/Tableau_Sales_Dashboard/raw/main/images/Sales_Dashboard.png)](https://github.com/shawdiya/Tableau_Sales_Dashboard/tree/main) |
 
 
 
