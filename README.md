@@ -64,14 +64,36 @@ I'm an **IT professional** passionate about uncovering insights through **data a
 
 ---
 
-# Projects
+# Projects Images
 
-| PowerBI Reliance Smart | Tableau Sales Dashboard |
-|------------------------|-------------------------|
-| [![PowerBI Reliance Smart](https://github.com/shawdiya/PowerBI_Reliance_Smart/raw/main/images/reliance_dashboard.png)](https://github.com/shawdiya/PowerBI_Reliance_Smart) | [![Tableau Sales Dashboard](https://github.com/shawdiya/Tableau_Sales_Dashboard/raw/main/images/Sales_Dashboard.png)](https://github.com/shawdiya/Tableau_Sales_Dashboard/tree/main) |
-
-
-
+<div align="center">
+  <a href="https://github.com/shawdiya/PwC_PowerBI">
+    <img src="https://github.com/shawdiya/PwC_PowerBI/blob/main/images/PwC_Churn.png?raw=true" alt="Call Center Dashboard 1" width="30%" />
+  </a>
+  <a href="https://github.com/shawdiya/PwC_PowerBI">
+    <img src="https://github.com/shawdiya/PwC_PowerBI/blob/main/images/PwC_Diversity_Inclusion_1.png?raw=true" alt="Customer Demographics Dashboard" width="30%" />
+  </a>
+  <a href="https://github.com/shawdiya/PwC_PowerBI">
+    <img src="https://github.com/shawdiya/PwC_PowerBI/blob/main/images/PwC_Diversity_Inclusion_2.png?raw=true" alt="Diversity and Inclusion Dashboard 1" width="30%" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/shawdiya/PwC_PowerBI">
+    <img src="https://github.com/shawdiya/PwC_PowerBI/blob/main/images/PwC_call_center_1.png?raw=true" alt="Call Center Dashboard 2" width="30%" />
+  </a>
+  <a href="https://github.com/shawdiya/PowerBI_Reliance_Smart">
+    <img src="https://github.com/shawdiya/PowerBI_Reliance_Smart/raw/main/images/reliance_dashboard.png" alt="Reliance Smart Dashboard" width="30%" />
+  </a>
+  <a href="https://github.com/shawdiya/PwC_PowerBI">
+    <img src="https://github.com/shawdiya/PwC_PowerBI/blob/main/images/PwC_call_center_2.png?raw=true" alt="Diversity and Inclusion Dashboard 2" width="30%" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/shawdiya/Tableau_Sales_Dashboard">
+    <img src="https://github.com/shawdiya/Tableau_Sales_Dashboard/raw/main/images/Sales_Dashboard.png" alt="Sales Dashboard" width="30%" />
+  </a>
+</div>
+---
 
 
 
