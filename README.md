@@ -35,11 +35,10 @@ I'm an **IT professional** passionate about uncovering insights through **data a
 ---
 
 ## 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/s-hawdiya/">
+<a href="https://www.linkedin.com/in/s-hawdiya?trk=profile-badge" target="_blank">
   <img width="780" alt="image" src="https://github.com/user-attachments/assets/28c3f8bd-73f7-4101-80db-46a51b19feae" />
-
-
 </a>
+
 
 
 
