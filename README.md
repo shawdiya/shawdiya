@@ -10,6 +10,7 @@ I'm an **IT professional** passionate about uncovering insights through **data a
 </div>
 
 
+
 ---
 
 ## 🏅 Microsoft Learn Achievements
@@ -34,12 +35,22 @@ I'm an **IT professional** passionate about uncovering insights through **data a
 ---
 
 ## 🌐 Connect with Me
-
-
-
 <a href="https://www.linkedin.com/in/s-hawdiya/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
+  <img width="780" alt="image" src="https://github.com/user-attachments/assets/28c3f8bd-73f7-4101-80db-46a51b19feae" />
+
+
 </a>
+
+
+
+
+---
+## You can view my CV here 
+  <a href="https://app.enhancv.com/share/7b19619f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1604/1604478.png" width="100"/>
+  </a>
+
+
 
 ---
 
@@ -93,7 +104,6 @@ I'm an **IT professional** passionate about uncovering insights through **data a
     <img src="https://github.com/shawdiya/Tableau_Sales_Dashboard/raw/main/images/Sales_Dashboard.png" alt="Sales Dashboard" width="30%" />
   </a>
 </div>
----
 
 
 
@@ -106,7 +116,7 @@ I'm an **IT professional** passionate about uncovering insights through **data a
 ## 💬 About Me  
 I’m passionate about utilizing data to uncover trends and provide actionable insights that drive business growth. Always eager to learn new tools and technologies to improve my skills and contribute to team success.
 -->
----
+
 
 <!--
 - 🔭 I’m currently working on ...
