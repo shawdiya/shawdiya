@@ -10,7 +10,6 @@ I'm an **IT professional** passionate about uncovering insights through **data a
 </div>
 
 ---
-
 ## 🏅 Microsoft Learn Achievements
 
 ### 🏆 Achievements Overview
@@ -38,17 +37,11 @@ I'm an **IT professional** passionate about uncovering insights through **data a
 </a>
 
 
-
-
-
-
 ---
 ## You can view my CV here 
   <a href="https://app.enhancv.com/share/7b19619f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1604/1604478.png" width="100"/>
   </a>
-
-
 
 ---
 
